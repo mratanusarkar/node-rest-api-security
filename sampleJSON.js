@@ -95,7 +95,7 @@ const mixTypeJson = {
         'n': () => { },
         'o': (a) => { },
         'p': undefined,
-        'p': {
+        'q': {
             'data': new Float64Array(10)
         },
         'r': {
