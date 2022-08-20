@@ -1,0 +1,34 @@
+{
+  "name": "rest-api-security",
+  "version": "1.0.0",
+  "description": "demo poc to experiment with securities, malicious code injection and sql injection through body of a rest api call. in contrast to the popular package helmet that takes care of the headers and other overheads, this poc is focused on exploring the security in the body.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mratanusarkar/node-rest-api-security.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "body",
+    "payload",
+    "security",
+    "sql",
+    "injection",
+    "malicious",
+    "code",
+    "injection"
+  ],
+  "author": "Atanu Sarkar <mratanusarkar@gmail.com> (https://github.com/mratanusarkar)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mratanusarkar/node-rest-api-security/issues"
+  },
+  "homepage": "https://github.com/mratanusarkar/node-rest-api-security#readme",
+  "dependencies": {
+    "flat": "^5.0.2"
+  }
+}
